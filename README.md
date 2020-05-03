@@ -58,3 +58,8 @@ In this analysis, the main takeaways:
 
 
 
+NOTE:
+LINK FOR PLOG POST
+
+https://medium.com/@tacettinarici/starbucks-promotion-analysis-c8fdc58370b6?sk=94d511b93d4c6601f61f3a5f290df147
+
