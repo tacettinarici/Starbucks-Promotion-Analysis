@@ -60,5 +60,5 @@ https://github.com/tacettinarici/Starbucks-Promotion-Analysis
 
 LINK FOR BLOG POST ON MEDIUM
 
-https://medium.com/@tacettinarici/starbucks-promotion-analysis-c8fdc58370b6?sk=94d511b93d4c6601f61f3a5f290df147
+https://medium.com/@tacettinarici/starbucks-promotion-analysis-c8fdc58370b6
 
