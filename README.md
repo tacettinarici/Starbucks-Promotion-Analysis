@@ -60,5 +60,7 @@ https://github.com/tacettinarici/Starbucks-Promotion-Analysis
 
 LINK FOR BLOG POST ON MEDIUM
 
+https://medium.com/@tacettinarici/how-i-became-a-data-scientist-1-166a6211e0f0
+
 https://medium.com/@tacettinarici/starbucks-promotion-analysis-c8fdc58370b6
 
